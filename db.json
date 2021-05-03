@@ -1,14 +1,149 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "id": 1,
+    "name": "Bulbasaur",
+    "imgurl": "https://img.pokemondb.net/artwork/bulbasaur.jpg",
+    "type":"Grass · Poison",
+    "gen":"1"
+  },
+   {
+    "id": 2,
+    "name": "Ivysaur",
+    "imgurl": "https://img.pokemondb.net/artwork/ivysaur.jpg",
+     "type":"Grass · Poison",
+    "gen":"1"
+  },
+   {
+    "id": 3,
+    "name": "Charmander",
+    "imgurl": "https://img.pokemondb.net/artwork/charmander.jpg",
+      "type":"Fire",
+    "gen":"1"
+  },
+   {
+    "id": 4,
+    "name": "charmeleon",
+    "imgurl": "https://img.pokemondb.net/artwork/charmeleon.jpg",
+      "type":"Fire . Flying",
+    "gen":"1"
+  },
+   {
+    "id": 5,
+    "name": "pikachu",
+    "imgurl": "https://img.pokemondb.net/artwork/pikachu.jpg",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 6,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 7,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 8,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 9,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 10,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 11,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 12,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 13,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 14,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 15,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 16,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
   }
-}
+ ,
+   {
+    "id": 17,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  }
+ ,
+   {
+    "id": 18,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  }
+ ,
+   {
+    "id": 19,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  },
+   {
+    "id": 20,
+    "name": "Leanne Graham",
+    "imgurl": "Bret",
+      "type":"",
+    "gen":""
+  }
+ 
+ 
+ 
+ 
+]
