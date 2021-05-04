@@ -17,129 +17,129 @@
     "id": 3,
     "name": "Charmander",
     "imgurl": "https://img.pokemondb.net/artwork/charmander.jpg",
-      "type":"Fire",
+     "type":"Fire",
     "gen":"1"
   },
    {
     "id": 4,
     "name": "charmeleon",
     "imgurl": "https://img.pokemondb.net/artwork/charmeleon.jpg",
-      "type":"Fire . Flying",
+     "type":"Fire . Flying",
     "gen":"1"
   },
    {
     "id": 5,
     "name": "pikachu",
     "imgurl": "https://img.pokemondb.net/artwork/pikachu.jpg",
-      "type":"",
+     "type":"",
     "gen":""
   },
    {
     "id": 6,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
-    "gen":""
+    "name": "Raichu",
+    "imgurl": "https://img.pokemondb.net/artwork/raichu.jpg",
+      "type":"Electric",
+    "gen":"1"
   },
    {
     "id": 7,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Sudowoodo",
+    "imgurl": "https://img.pokemondb.net/artwork/sudowoodo.jpg",
+      "type":"Rock",
     "gen":""
   },
    {
     "id": 8,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Turtwig",
+    "imgurl": "https://img.pokemondb.net/artwork/turtwig.jpg",
+      "type":"Grass",
     "gen":""
   },
    {
     "id": 9,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Prinplup",
+    "imgurl": "https://img.pokemondb.net/artwork/prinplup.jpg",
+      "type":"Water",
     "gen":""
   },
    {
     "id": 10,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Floatzel",
+    "imgurl": "https://img.pokemondb.net/artwork/floatzel.jpg",
+      "type":"Water",
     "gen":""
   },
    {
     "id": 11,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Lucario",
+    "imgurl": "https://img.pokemondb.net/artwork/lucario.jpg",
+      "type":"Fighting",
     "gen":""
   },
    {
     "id": 12,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Servine",
+    "imgurl": "https://img.pokemondb.net/artwork/servine.jpg",
+      "type":"Grass",
     "gen":""
   },
    {
     "id": 13,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Stoutland",
+    "imgurl": "https://img.pokemondb.net/artwork/stoutland.jpg",
+      "type":"Normal",
     "gen":""
   },
    {
     "id": 14,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Gigalith",
+    "imgurl": "https://img.pokemondb.net/artwork/gigalith.jpg",
+      "type":"Rock",
     "gen":""
   },
    {
     "id": 15,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Scrafty",
+    "imgurl": "https://img.pokemondb.net/artwork/scrafty.jpg",
+      "type":"Dark . Fighting",
     "gen":""
   },
    {
     "id": 16,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Haxorus",
+    "imgurl": "https://img.pokemondb.net/artwork/haxorus.jpg",
+      "type":"Dragon",
     "gen":""
   }
  ,
    {
     "id": 17,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "beartic",
+    "imgurl": "https://img.pokemondb.net/artwork/beartic.jpg",
+      "type":"Ice",
     "gen":""
   }
  ,
    {
     "id": 18,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Pangoro",
+    "imgurl": "https://img.pokemondb.net/artwork/pangoro.jpgt",
+      "type":"Fighting . Dark",
     "gen":""
   }
  ,
    {
     "id": 19,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "bergmite",
+    "imgurl": "https://img.pokemondb.net/artwork/bergmite.jpg",
+      "type":"Ice",
     "gen":""
   },
    {
     "id": 20,
-    "name": "Leanne Graham",
-    "imgurl": "Bret",
-      "type":"",
+    "name": "Mudsdale",
+    "imgurl": "https://img.pokemondb.net/artwork/mudsdale.jpg",
+      "type":"Ground",
     "gen":""
   }
  
